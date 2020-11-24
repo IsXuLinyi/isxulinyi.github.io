@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://isxulinyi.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-11-24T13:16:24.768Z</updated>
+    <title>徐琳翼的博客</title>
+    <updated>2020-11-24T13:25:08.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://isxulinyi.github.io"/>
     <link rel="self" href="https://isxulinyi.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://isxulinyi.github.io/images/avatar.png</logo>
     <icon>https://isxulinyi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 徐琳翼的博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://isxulinyi.github.io/post/hello-gridea/</id>
