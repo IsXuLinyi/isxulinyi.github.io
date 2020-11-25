@@ -2,11 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://isxulinyi.github.io</id>
     <title>徐琳翼的博客</title>
-    <updated>2020-11-24T13:43:02.852Z</updated>
+    <updated>2020-11-25T09:23:40.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://isxulinyi.github.io"/>
     <link rel="self" href="https://isxulinyi.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://isxulinyi.github.io/images/avatar.png</logo>
     <icon>https://isxulinyi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 徐琳翼的博客</rights>
